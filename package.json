@@ -1,0 +1,17 @@
+{
+  "name": "edx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucius",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-dev-server": "^1.1.3",
+    "gulp-watch": "^5.0.0"
+  }
+}
